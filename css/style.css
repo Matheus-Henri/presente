@@ -244,3 +244,13 @@ body {
   .name {
     margin-left:150px;
   }
+
+  #img{
+    margin-top: 130px;
+  }
+
+  img{
+    border: 2px solid black;
+    height: 246px;
+    width: 246px;
+  }
